@@ -20,4 +20,4 @@ Her laboratuvar uygulaması; Java Swing bileşenlerini, kullanıcı etkileşimin
 - Her klasör, tek bir laboratuvar haftasına aittir.
 - Kodlar öğrenim sürecini desteklemek amacıyla paylaşılmıştır.
 - Kodlar üzerinde oynayarak kendi projelerinizi geliştirebilir ve öğrenmenizi pekiştirebilirsiniz.
-- Bu proje  eğitim amaçlıdır. Serbestçe kullanılabilir.
+- Bu proje  eğitim amaçlıdır. Referans göstererek serbestçe kullanılabilir.
